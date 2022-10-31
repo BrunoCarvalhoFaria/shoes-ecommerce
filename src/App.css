@@ -1,0 +1,301 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  min-height:  100vh;
+  background-color: #e1e1e1;
+  color: #1e1e1e;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  max-width: 75vw;
+}
+
+.container .header{
+  min-height: 100px;
+  display: flex;
+  flex-direction: row;
+  background-color: #6ebae0;
+  padding: 10px;
+  margin: 10px 0;
+  justify-content:space-between
+}
+
+.container .header .menu button{
+  background-color: transparent;
+  font-weight: bold;
+  border: none;
+  min-height: 80px;
+  min-width: 100px;
+  font-size: 1.8rem;
+  margin: 10px;
+  padding: 10px 0;
+  cursor: pointer;
+}
+.container .header .menu .carrinho img{
+  width: 60px;
+}
+
+.container .brandCarousel {
+  display: flex;
+  overflow-x: auto;
+  scroll-behavior: smooth;  
+  justify-content: space-between;
+}
+
+.container .brandCarousel .item .image {
+  margin: 10px;
+  background-color: white;  
+  width: 230px;
+  height: 230px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.container .brandCarousel .item .image img {
+  height: 100px;    
+}
+
+.container .promotion{
+  background-color: black;
+  color: yellow;
+  padding: 10px;
+  margin-top: 10px;
+  font-size: 4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+
+.container .carousel {
+  display: flex;
+  overflow-x: auto;
+  scroll-behavior: smooth;  
+}
+
+.container .carousel::-webkit-scrollbar {
+  display: none;
+}
+
+.container .carousel .item {
+  background-color: white;
+  margin: 10px;
+  padding: 10px;
+  width: 380px;
+  border-radius: 16px;
+  flex: none;
+}
+
+.container .carousel .item .image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.container .carousel .item .info {
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.container .carousel .item .info span {
+  display: block;
+  text-align: center;
+  color: #1e1e1e;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.container .carousel .item .info .name {
+  font-size: 2rem;
+  font-weight: bold;
+  min-height: 100px;
+  margin: 10px 0;  
+  color: #00a8fb
+}
+
+.container .carousel .item .info .fullPrice {
+  font-size: 1.5rem;
+  text-decoration: line-through;
+  flex-grow: 1;
+  
+  color: red
+}
+
+.container .carousel .item .info .price {
+  margin-top: 10px;
+  font-size: 2rem;
+  font-weight: bold;
+  background-color: #ff7e3b;
+}
+
+.container .carouselButtons{
+  width: 100%;
+  text-align: center;
+}
+
+.container .carouselButtons button{
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+.container .carouselButtons button:first-child img{
+  transform: rotate(180deg)
+}
+/**/
+.container .shoesList {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  flex-wrap: wrap;
+  /* display: flex;   */
+  /* overflow-x: auto; */
+  /* scroll-behavior: smooth;   */  
+}
+
+.container .shoesList .item {
+  background-color: white;
+  margin: 10px;
+  padding: 10px;
+  width: 600px;
+  border-radius: 16px;
+  flex: none;
+}
+
+.container .shoesList .item .image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.container .shoesList .item .info {
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.container .shoesList .item .info span {
+  display: block;
+  text-align: center;
+  color: #1e1e1e;
+  padding: 5px;
+  border-radius: 10px;
+}
+/**/
+.container .shoesList .item .info .shoesSize {
+  list-style: none;
+  margin-bottom: 20px;
+  padding: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.container .shoesList .item .info .shoesSize:after {
+  content: "";
+  clear: both;
+}
+
+.container .shoesList .item .info .shoesSize .size {
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  float: left;
+  height: 50px;
+  position: relative;
+  width: 50px;  
+}
+
+.container .shoesList .item .info .shoesSize .size + .size {
+  margin-left: 25px;
+}
+
+.container .shoesList .item .info .shoesSize label {
+  background: #ffffff no-repeat center center;
+  bottom: 1px;
+  cursor: pointer;
+  display: block;
+  font-size: 2rem;
+  left: 1px;
+  position: absolute;
+  right: 1px;
+  text-align: center;
+  justify-content: center;
+  top: 1px;
+  white-space: nowrap;
+}
+
+.container .shoesList .item .info .shoesSize input:focus + label {
+  outline: 2px dotted #00a8fb;
+}
+
+.container .shoesList .item .info .shoesSize input:checked + label {
+  outline: 6px solid #00a8fb;
+} 
+/**/
+.container .shoesList .item .info .name {
+  font-size: 2.5rem;
+  font-weight: bold;
+  min-height: 100px;
+  margin: 10px 0;  
+  color: #00a8fb
+}
+
+.container .shoesList .item .info .fullPrice {
+  font-size: 2rem;
+  text-decoration: line-through;
+  flex-grow: 1;
+  
+  color: red
+}
+
+.container .shoesList .item .info .price {
+  margin-top: 10px;
+  font-size: 2.5rem;
+  font-weight: bold;
+  background-color: #ff7e3b;
+} /**/
+
+.container .footer{
+  min-height: 100px;
+  display: flex;
+  flex-direction: row;
+  justify-content:space-around;
+  background-color: #6ebae0;
+  padding: 10px;
+  margin: 10px 0;  
+}
+
+.container .footer .contact{
+  font-size: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;  
+}
+
+.container .footer .contact span{
+  padding: 5px;
+}
+
+.container .footer .contact .socialMedia{
+  display: flex;
+  padding-top: 5px;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center; 
+}
+

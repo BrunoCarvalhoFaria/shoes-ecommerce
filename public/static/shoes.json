@@ -1,0 +1,330 @@
+[
+  {
+    "id": "94313731",
+    "name": "Tênis Nike Revolution 5 Max" ,
+    "price": 249.99,
+    "fullPrice": 349.99,
+    "image": "https://imgcentauro-a.akamaihd.net/230x230/94313731.jpg",
+    "sizes": [37, 38, 39],
+    "brand": "nike"
+  },
+  {
+    "id": "94313762",
+    "name": "Tênis Nike Revolution 5",
+    "price": 249.99,
+    "fullPrice": 349.99,
+    "image": "https://imgcentauro-a.akamaihd.net/230x230/94313762.jpg",
+    "sizes": [37, 38, 40, 43],
+    "brand": "nike"
+  },
+  
+  { 
+    "id": "943137XQ",
+    "name": "Tênis Nike Revolution 5",
+    "price": 249.99,
+    "fullPrice": 349.99,
+    "image": "https://imgcentauro-a.akamaihd.net/230x230/943137XQ.jpg",
+    "sizes": [37, 38, 39, 40, 43],
+    "brand": "nike"
+  },
+  {
+    "id": "95077714",
+    "name": "Tênis Asics Patriot 12 Noosa",
+    "price": 199.99,
+    "fullPrice": 279.99,
+    "image": "https://imgcentauro-a.akamaihd.net/230x230/95077714.jpg",
+    "sizes": [37, 38, 39, 40, 43],
+    "brand": "asics"
+  },
+  {
+    "id": "9507779N",
+    "name": "Tênis Asics Patriot 12 Noosa",
+    "price": 199.99,
+    "fullPrice": 279.99,
+    "image": "https://imgcentauro-a.akamaihd.net/230x230/9507779N.jpg",
+    "sizes": [37, 38, 39, 40, 43],
+    "brand": "asics"
+  },
+  {
+    "id": "92601102",
+    "name": "Tênis Oakley Modoc Low 3.0",
+    "price": 449.99,
+    "fullPrice": 559.99,
+    "image": "https://imgcentauro-a.akamaihd.net/230x230/92601102.jpg",
+    "sizes": [37, 38, 39, 40, 43],
+    "brand": "oakley"
+  },
+  {
+    "id": "9465450R",
+    "name": "Tênis Nike Renew Run",
+    "price": 279.99,
+    "fullPrice": 399.99,
+    "image": "https://imgcentauro-a.akamaihd.net/230x230/9465450R.jpg",
+    "sizes": [37, 38, 39, 40, 43],
+    "brand": "nike"
+  },
+  {
+    "id": "95004531",
+    "name": "Tênis Nike Quest 3",
+    "price": 299.99,
+    "fullPrice": 449.99,
+    "image": "https://imgcentauro-a.akamaihd.net/230x230/95004531.jpg",
+    "sizes": [37, 38, 39, 40, 43],
+    "brand": "nike"
+  },
+  {
+    "id": "94672705",
+    "name": "Tênis adidas Lite Racer 20",
+    "price": 179.99,
+    "fullPrice": 229.99,
+    "image": "https://imgcentauro-a.akamaihd.net/230x230/94672705.jpg",
+    "sizes": [37, 38, 39, 40, 43],
+    "brand": "adidas"
+  },
+  {
+    "id": "92456602",
+    "name": "Tênis Infantil Puma Wired",
+    "price": 179.99,
+    "fullPrice": 209.99,
+    "image": "https://imgcentauro-a.akamaihd.net/230x230/92456602.jpg",
+    "sizes": [37, 38, 39, 40, 43],
+    "brand": "puma"
+  },
+  {
+    "id": "94461431",
+    "name": "Tênis Infantil Nike Flex Runner",
+    "price": 279.99,
+    "fullPrice": null,
+    "image": "https://imgcentauro-a.akamaihd.net/230x230/94461431.jpg",
+    "sizes": [37, 38, 39, 40, 43],
+    "brand": "nike"
+  },
+  {
+    "id": "95850662",
+    "name": "Tênis adidas Runfalcon 2.0",
+    "price": 199.99,
+    "fullPrice": 279.99,
+    "image": "https://imgcentauro-a.akamaihd.net/230x230/95850662.jpg",
+    "sizes": [37, 38, 39, 40, 43],
+    "brand": "adidas"
+  },
+  {
+    "id": "943137X8",
+    "name": "Tênis Nike Revolution 5",
+    "price": 249.99,
+    "fullPrice": 349.99,
+    "image": "https://imgcentauro-a.akamaihd.net/230x230/943137X8.jpg",
+    "sizes": [37, 38, 39, 40, 43],
+    "brand": "nike"
+  },
+  {
+    "id": "93227802",
+    "name": "Tênis Infantil Puma Wired",
+    "price": 159.99,
+    "fullPrice": 189.99,
+    "image": "https://imgcentauro-a.akamaihd.net/230x230/93227802.jpg",
+    "sizes": [37, 38, 39, 40, 43],
+    "brand": "puma"
+  },
+  {
+    "id": "93828502",
+    "name": "Tênis Infantil Nike Pico 5 Baby",
+    "price": 139.99,
+    "fullPrice": 179.99,
+    "image": "https://imgcentauro-a.akamaihd.net/230x230/93828502.jpg",
+    "sizes": [37, 38, 39, 40, 43],
+    "brand": "nike"
+  },
+  
+  {
+    "id": "95150929",
+    "name": "Tênis Asics Patriot 12",
+    "price": 199.99,
+    "fullPrice": 259.99,
+    "image": "https://imgcentauro-a.akamaihd.net/230x230/95150929.jpg",
+    "sizes": [37, 38, 39, 40, 43],
+    "brand": "asics"
+  },
+  {
+    "id": "95870805",
+    "name": "Tênis Asics Gel-Pacemaker",
+    "price": 299.99,
+    "fullPrice": 399.99,
+    "image": "https://imgcentauro-a.akamaihd.net/230x230/95870805.jpg",
+    "sizes": [37, 38, 39, 40, 43],
+    "brand": "asics"
+  },
+  {
+    "id": "95707805",
+    "name": "Tênis Mizuno Wave Prophecy X",
+    "price": 1299.99,
+    "fullPrice": 1499.99,
+    "image": "https://imgcentauro-a.akamaihd.net/230x230/95707805.jpg",
+    "sizes": [37, 38, 39, 40, 43],
+    "brand": "mizuno"
+  },
+  {
+    "id": "94672719",
+    "name": "Tênis adidas Lite Racer 20",
+    "price": 179.99,
+    "fullPrice": 229.99,
+    "image": "https://imgcentauro-a.akamaihd.net/230x230/94672719.jpg",
+    "sizes": [37, 38, 39, 40, 43],
+    "brand": "adidas"
+  },
+  {
+    "id": "95876431",
+    "name": "Tênis Asics Gel-Nagoya 3",
+    "price": 299.99,
+    "fullPrice": 379.99,
+    "image": "https://imgcentauro-a.akamaihd.net/230x230/95876431.jpg",
+    "sizes": [37, 38, 39, 40, 43],
+    "brand": "asics"
+  },
+ 
+  {
+    "id": "95707845",
+    "name": "Tênis Mizuno Wave Prophecy X",
+    "price": 1299.99,
+    "fullPrice": 1499.99,
+    "image": "https://imgcentauro-a.akamaihd.net/230x230/95707845.jpg",
+    "sizes": [37, 38, 39, 40, 43],
+    "brand": "mizuno"
+  },
+  {
+    "id": "946545OX",
+    "name": "Tênis Nike Renew Run",
+    "price": 279.99,
+    "fullPrice": 399.99,
+    "image": "https://imgcentauro-a.akamaihd.net/230x230/946545OX.jpg",
+    "sizes": [37, 38, 39, 40, 43],
+    "brand": "nike"
+  },
+  {
+    "id": "9465450M",
+    "name": "Tênis Nike Renew Run",
+    "price": 279.99,
+    "fullPrice": 399.99,
+    "image": "https://imgcentauro-a.akamaihd.net/230x230/9465450M.jpg",
+    "sizes": [37, 38, 39, 40, 43],
+    "brand": "nike"
+  },
+  {
+    "id": "95939145",
+    "name": "Tênis Fila Grand Prix",
+    "price": 199.99,
+    "fullPrice": 249.99,
+    "image": "https://imgcentauro-a.akamaihd.net/230x230/95939145.jpg",
+    "sizes": [37, 38, 39, 40, 43],
+    "brand": "fila"
+  },
+  {
+    "id": "95326905",
+    "name": "Tênis Fila Recovery",
+    "price": 259.99,
+    "fullPrice": 299.99,
+    "image": "https://imgcentauro-a.akamaihd.net/230x230/95326905.jpg",
+    "sizes": [37, 38, 39, 40, 43],
+    "brand": "fila"
+  },
+  {
+    "id": "951509X8",
+    "name": "Tênis Asics Patriot 12",
+    "price": 199.99,
+    "fullPrice": 259.99,
+    "image": "https://imgcentauro-a.akamaihd.net/230x230/951509X8.jpg",
+    "sizes": [37, 38, 39, 40, 43],
+    "brand": "asics"
+  },
+  {
+    "id": "9515093X",
+    "name": "Tênis Asics Patriot 12",
+    "price": 199.99,
+    "fullPrice": 259.99,
+    "image": "https://imgcentauro-a.akamaihd.net/230x230/9515093X.jpg",
+    "sizes": [37, 38, 39, 40, 43],
+    "brand": "asics"
+  },
+  {
+    "id": "9590484W",
+    "name": "Tênis Puma Anzarun SR BDP",
+    "price": 229.99,
+    "fullPrice": 329.99,
+    "image": "https://imgcentauro-a.akamaihd.net/230x230/9590484W.jpg",
+    "sizes": [37, 38, 39, 40, 43],
+    "brand": "puma"
+  },
+  {
+    "id": "943137D0",
+    "name": "Tênis Nike Revolution 5",
+    "price": 249.99,
+    "fullPrice": 349.99,
+    "image": "https://imgcentauro-a.akamaihd.net/230x230/943137D0.jpg",
+    "sizes": [37, 38, 39, 40, 43],
+    "brand": "nike"
+  },
+  {
+    "id": "9465459P",
+    "name": "Tênis Nike Renew Run",
+    "price": 279.99,
+    "fullPrice": 399.99,
+    "image": "https://imgcentauro-a.akamaihd.net/230x230/9465459P.jpg",
+    "sizes": [37, 38, 39, 40, 43],
+    "brand": "nike"
+  },
+  {
+    "id": "94218131",
+    "name": "Tênis Infantil Nike Court Borough Low 2",
+    "price": 199.99,
+    "fullPrice": 299.99,
+    "image": "https://imgcentauro-a.akamaihd.net/230x230/94218131.jpg",
+    "sizes": [37, 38, 39, 40, 43],
+    "brand": "nike"
+  },
+  {
+    "id": "95707858",
+    "name": "Tênis Mizuno Wave Prophecy X",
+    "price": 1299.99,
+    "fullPrice": 1499.99,
+    "image": "https://imgcentauro-a.akamaihd.net/230x230/95707858.jpg",
+    "sizes": [37, 38, 39, 40, 43],
+    "brand": "mizuno"
+  },
+  {
+    "id": "94876962",
+    "name": "Tênis adidas Lite Racer 2.0",
+    "price": 179.99,
+    "fullPrice": 249.99,
+    "image": "https://imgcentauro-a.akamaihd.net/230x230/94876962.jpg",
+    "sizes": [37, 38, 39, 40, 43],
+    "brand": "adidas"
+  },
+  {
+    "id": "94313703",
+    "name": "Tênis Nike Revolution 5",
+    "price": 249.99,
+    "fullPrice": 349.99,
+    "image": "https://imgcentauro-a.akamaihd.net/230x230/94313703.jpg",
+    "sizes": [37, 38, 39, 40, 43],
+    "brand": "nike"
+  },
+  
+  {
+    "id": "93761902",
+    "name": "Tênis Oakley Modoc 2.0",
+    "price": 449.99,
+    "fullPrice": 649.99,
+    "image": "https://imgcentauro-a.akamaihd.net/230x230/93761902.jpg",
+    "sizes": [37, 38, 39, 40, 43],
+    "brand": ""
+  },
+  {
+    "id": "95150919",
+    "name": "Tênis Asics Patriot 12",
+    "price": 199.99,
+    "fullPrice": 259.99,
+    "image": "https://imgcentauro-a.akamaihd.net/230x230/95150919.jpg",
+    "sizes": [37, 38, 39, 40, 43],
+    "brand": ""
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "nike",
+    "image": "./static/images/brands/nike.png"
+  },
+  {
+    "id": "puma",
+    "image": "./static/images/brands/puma.png"
+  },
+  {
+    "id": "adidas",
+    "image": "./static/images/brands/adidas.png"
+  },
+  {
+    "id": "asics",
+    "image": "./static/images/brands/asics.png"
+  },
+  {
+    "id": "mizuno",
+    "image": "./static/images/brands/mizuno.png"
+  },
+  {
+    "id": "new-balance",
+    "image": "./static/images/brands/new-balance.png"
+  },
+  {
+    "id": "reebok",
+    "image": "./static/images/brands/reebok.jpg"
+  }
+]
