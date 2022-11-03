@@ -1,0 +1,27 @@
+
+
+.header{
+  width: 100%;
+  min-height: 50px;  
+  display: flex;
+  flex-direction: row;
+  background-color: #6ebae0;
+  padding: 10px;
+  margin: 10px 0;
+  justify-content:space-between
+}
+
+.header .menu button{
+  background-color: transparent;
+  font-weight: bold;
+  border: none;
+  min-height: 40px;
+  min-width: 50px;
+  font-size: 1.4rem;
+  margin: 10px;
+  padding: 10px 0;
+  cursor: pointer;
+}
+.header .menu .carrinho img{
+  width: 40px;
+}

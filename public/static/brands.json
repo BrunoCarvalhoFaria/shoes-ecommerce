@@ -1,5 +1,9 @@
 [
   {
+    "id": "all",
+    "image": "./static/images/brands/all-brands.jpeg"
+  },
+  {
     "id": "nike",
     "image": "./static/images/brands/nike.png"
   },
@@ -18,13 +22,6 @@
   {
     "id": "mizuno",
     "image": "./static/images/brands/mizuno.png"
-  },
-  {
-    "id": "new-balance",
-    "image": "./static/images/brands/new-balance.png"
-  },
-  {
-    "id": "reebok",
-    "image": "./static/images/brands/reebok.jpg"
   }
+  
 ]

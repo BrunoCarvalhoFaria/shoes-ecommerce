@@ -1,0 +1,115 @@
+.registerPage{
+  width: 100vw;
+  height: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.registerForm{
+  width: 500px;
+  height: auto;
+  background-color: #6ebae0;
+  border-radius: 20px;
+  padding: 0 20px
+}
+
+.registerForm .close{
+  padding-top: 2px;
+  display: flex;
+  justify-content:flex-end;
+  cursor: pointer;
+}
+
+.registerForm .close .closeImage{
+  width: 20px;
+  display: flex;
+  justify-content:flex-end;
+}
+
+.registerForm .title{
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  font-size: 1.5rem;
+}
+
+.registerForm .text{
+  font-size: 1rem;
+  font-weight: bold;  
+  margin-bottom: 5px;  
+}
+
+.registerForm .field{
+  padding-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.registerForm .field .name{
+  border-radius: 15px;
+  width: stretch;
+  border: none;
+  padding: 5px;
+  padding-left: 10px;
+  font-size: 1rem;
+  font-weight: bold; 
+}
+
+.registerForm .field .email{
+  border-radius: 15px;
+  width: stretch;
+  border: none;
+  padding: 5px;
+  padding-left: 10px;
+  font-size: 1rem;
+  font-weight: bold;  
+}
+
+
+.registerForm .field .birthday{
+  border-radius: 10px;
+  display: flex;
+  margin-top: 5px;
+  padding: 5px;
+  text-align: center;
+  border: none;
+  width: fit-content;
+}
+
+.registerForm .field .password{
+  border-radius: 15px;
+  width: 50%;
+  border: none;
+  padding: 5px;
+  padding-left: 10px;
+  font-size: 1rem;
+  font-weight: bold;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.registerForm .alert{
+  color: red;
+  font-weight: bold;
+}
+
+.registerForm .button {
+  display: flex;
+  justify-content: center;
+}
+
+.registerForm .button .submit {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  border-radius: 30px;
+  background-color: transparent;  
+  height: 40px;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.info{
+  margin: 20px;
+  text-align: center;
+}

@@ -6,7 +6,8 @@
     "fullPrice": 349.99,
     "image": "https://imgcentauro-a.akamaihd.net/230x230/94313731.jpg",
     "sizes": [37, 38, 39],
-    "brand": "nike"
+    "brand": "nike",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "id": "94313762",
@@ -15,7 +16,8 @@
     "fullPrice": 349.99,
     "image": "https://imgcentauro-a.akamaihd.net/230x230/94313762.jpg",
     "sizes": [37, 38, 40, 43],
-    "brand": "nike"
+    "brand": "nike",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   
   { 
@@ -25,7 +27,8 @@
     "fullPrice": 349.99,
     "image": "https://imgcentauro-a.akamaihd.net/230x230/943137XQ.jpg",
     "sizes": [37, 38, 39, 40, 43],
-    "brand": "nike"
+    "brand": "nike",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "id": "95077714",
@@ -34,7 +37,8 @@
     "fullPrice": 279.99,
     "image": "https://imgcentauro-a.akamaihd.net/230x230/95077714.jpg",
     "sizes": [37, 38, 39, 40, 43],
-    "brand": "asics"
+    "brand": "asics",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "id": "9507779N",
@@ -43,7 +47,8 @@
     "fullPrice": 279.99,
     "image": "https://imgcentauro-a.akamaihd.net/230x230/9507779N.jpg",
     "sizes": [37, 38, 39, 40, 43],
-    "brand": "asics"
+    "brand": "asics",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "id": "92601102",
@@ -52,7 +57,8 @@
     "fullPrice": 559.99,
     "image": "https://imgcentauro-a.akamaihd.net/230x230/92601102.jpg",
     "sizes": [37, 38, 39, 40, 43],
-    "brand": "oakley"
+    "brand": "oakley",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "id": "9465450R",
@@ -61,7 +67,8 @@
     "fullPrice": 399.99,
     "image": "https://imgcentauro-a.akamaihd.net/230x230/9465450R.jpg",
     "sizes": [37, 38, 39, 40, 43],
-    "brand": "nike"
+    "brand": "nike",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "id": "95004531",
@@ -70,7 +77,8 @@
     "fullPrice": 449.99,
     "image": "https://imgcentauro-a.akamaihd.net/230x230/95004531.jpg",
     "sizes": [37, 38, 39, 40, 43],
-    "brand": "nike"
+    "brand": "nike",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "id": "94672705",
@@ -79,7 +87,8 @@
     "fullPrice": 229.99,
     "image": "https://imgcentauro-a.akamaihd.net/230x230/94672705.jpg",
     "sizes": [37, 38, 39, 40, 43],
-    "brand": "adidas"
+    "brand": "adidas",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "id": "92456602",
@@ -88,7 +97,8 @@
     "fullPrice": 209.99,
     "image": "https://imgcentauro-a.akamaihd.net/230x230/92456602.jpg",
     "sizes": [37, 38, 39, 40, 43],
-    "brand": "puma"
+    "brand": "puma",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "id": "94461431",
@@ -97,7 +107,8 @@
     "fullPrice": null,
     "image": "https://imgcentauro-a.akamaihd.net/230x230/94461431.jpg",
     "sizes": [37, 38, 39, 40, 43],
-    "brand": "nike"
+    "brand": "nike",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "id": "95850662",
@@ -106,7 +117,8 @@
     "fullPrice": 279.99,
     "image": "https://imgcentauro-a.akamaihd.net/230x230/95850662.jpg",
     "sizes": [37, 38, 39, 40, 43],
-    "brand": "adidas"
+    "brand": "adidas",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "id": "943137X8",
@@ -115,7 +127,8 @@
     "fullPrice": 349.99,
     "image": "https://imgcentauro-a.akamaihd.net/230x230/943137X8.jpg",
     "sizes": [37, 38, 39, 40, 43],
-    "brand": "nike"
+    "brand": "nike",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "id": "93227802",
@@ -124,7 +137,8 @@
     "fullPrice": 189.99,
     "image": "https://imgcentauro-a.akamaihd.net/230x230/93227802.jpg",
     "sizes": [37, 38, 39, 40, 43],
-    "brand": "puma"
+    "brand": "puma",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "id": "93828502",
@@ -133,7 +147,8 @@
     "fullPrice": 179.99,
     "image": "https://imgcentauro-a.akamaihd.net/230x230/93828502.jpg",
     "sizes": [37, 38, 39, 40, 43],
-    "brand": "nike"
+    "brand": "nike",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   
   {
@@ -143,7 +158,8 @@
     "fullPrice": 259.99,
     "image": "https://imgcentauro-a.akamaihd.net/230x230/95150929.jpg",
     "sizes": [37, 38, 39, 40, 43],
-    "brand": "asics"
+    "brand": "asics",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "id": "95870805",
@@ -152,7 +168,8 @@
     "fullPrice": 399.99,
     "image": "https://imgcentauro-a.akamaihd.net/230x230/95870805.jpg",
     "sizes": [37, 38, 39, 40, 43],
-    "brand": "asics"
+    "brand": "asics",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "id": "95707805",
@@ -161,7 +178,8 @@
     "fullPrice": 1499.99,
     "image": "https://imgcentauro-a.akamaihd.net/230x230/95707805.jpg",
     "sizes": [37, 38, 39, 40, 43],
-    "brand": "mizuno"
+    "brand": "mizuno",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "id": "94672719",
@@ -170,7 +188,8 @@
     "fullPrice": 229.99,
     "image": "https://imgcentauro-a.akamaihd.net/230x230/94672719.jpg",
     "sizes": [37, 38, 39, 40, 43],
-    "brand": "adidas"
+    "brand": "adidas",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "id": "95876431",
@@ -179,7 +198,8 @@
     "fullPrice": 379.99,
     "image": "https://imgcentauro-a.akamaihd.net/230x230/95876431.jpg",
     "sizes": [37, 38, 39, 40, 43],
-    "brand": "asics"
+    "brand": "asics",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
  
   {
@@ -189,7 +209,8 @@
     "fullPrice": 1499.99,
     "image": "https://imgcentauro-a.akamaihd.net/230x230/95707845.jpg",
     "sizes": [37, 38, 39, 40, 43],
-    "brand": "mizuno"
+    "brand": "mizuno",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "id": "946545OX",
@@ -198,7 +219,8 @@
     "fullPrice": 399.99,
     "image": "https://imgcentauro-a.akamaihd.net/230x230/946545OX.jpg",
     "sizes": [37, 38, 39, 40, 43],
-    "brand": "nike"
+    "brand": "nike",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "id": "9465450M",
@@ -207,7 +229,8 @@
     "fullPrice": 399.99,
     "image": "https://imgcentauro-a.akamaihd.net/230x230/9465450M.jpg",
     "sizes": [37, 38, 39, 40, 43],
-    "brand": "nike"
+    "brand": "nike",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "id": "95939145",
@@ -216,7 +239,8 @@
     "fullPrice": 249.99,
     "image": "https://imgcentauro-a.akamaihd.net/230x230/95939145.jpg",
     "sizes": [37, 38, 39, 40, 43],
-    "brand": "fila"
+    "brand": "fila",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "id": "95326905",
@@ -225,7 +249,8 @@
     "fullPrice": 299.99,
     "image": "https://imgcentauro-a.akamaihd.net/230x230/95326905.jpg",
     "sizes": [37, 38, 39, 40, 43],
-    "brand": "fila"
+    "brand": "fila",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "id": "951509X8",
@@ -234,7 +259,8 @@
     "fullPrice": 259.99,
     "image": "https://imgcentauro-a.akamaihd.net/230x230/951509X8.jpg",
     "sizes": [37, 38, 39, 40, 43],
-    "brand": "asics"
+    "brand": "asics",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "id": "9515093X",
@@ -243,7 +269,8 @@
     "fullPrice": 259.99,
     "image": "https://imgcentauro-a.akamaihd.net/230x230/9515093X.jpg",
     "sizes": [37, 38, 39, 40, 43],
-    "brand": "asics"
+    "brand": "asics",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "id": "9590484W",
@@ -252,7 +279,8 @@
     "fullPrice": 329.99,
     "image": "https://imgcentauro-a.akamaihd.net/230x230/9590484W.jpg",
     "sizes": [37, 38, 39, 40, 43],
-    "brand": "puma"
+    "brand": "puma",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "id": "943137D0",
@@ -261,7 +289,8 @@
     "fullPrice": 349.99,
     "image": "https://imgcentauro-a.akamaihd.net/230x230/943137D0.jpg",
     "sizes": [37, 38, 39, 40, 43],
-    "brand": "nike"
+    "brand": "nike",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "id": "9465459P",
@@ -270,7 +299,8 @@
     "fullPrice": 399.99,
     "image": "https://imgcentauro-a.akamaihd.net/230x230/9465459P.jpg",
     "sizes": [37, 38, 39, 40, 43],
-    "brand": "nike"
+    "brand": "nike",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "id": "94218131",
@@ -279,7 +309,8 @@
     "fullPrice": 299.99,
     "image": "https://imgcentauro-a.akamaihd.net/230x230/94218131.jpg",
     "sizes": [37, 38, 39, 40, 43],
-    "brand": "nike"
+    "brand": "nike",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "id": "95707858",
@@ -288,7 +319,8 @@
     "fullPrice": 1499.99,
     "image": "https://imgcentauro-a.akamaihd.net/230x230/95707858.jpg",
     "sizes": [37, 38, 39, 40, 43],
-    "brand": "mizuno"
+    "brand": "mizuno",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "id": "94876962",
@@ -297,7 +329,8 @@
     "fullPrice": 249.99,
     "image": "https://imgcentauro-a.akamaihd.net/230x230/94876962.jpg",
     "sizes": [37, 38, 39, 40, 43],
-    "brand": "adidas"
+    "brand": "adidas",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "id": "94313703",
@@ -306,7 +339,8 @@
     "fullPrice": 349.99,
     "image": "https://imgcentauro-a.akamaihd.net/230x230/94313703.jpg",
     "sizes": [37, 38, 39, 40, 43],
-    "brand": "nike"
+    "brand": "nike",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   
   {
@@ -316,8 +350,10 @@
     "fullPrice": 649.99,
     "image": "https://imgcentauro-a.akamaihd.net/230x230/93761902.jpg",
     "sizes": [37, 38, 39, 40, 43],
-    "brand": ""
+    "brand": "oakley",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
+  
   {
     "id": "95150919",
     "name": "Tênis Asics Patriot 12",
@@ -325,6 +361,8 @@
     "fullPrice": 259.99,
     "image": "https://imgcentauro-a.akamaihd.net/230x230/95150919.jpg",
     "sizes": [37, 38, 39, 40, 43],
-    "brand": ""
+    "brand": "asics",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   }
+  
 ]
