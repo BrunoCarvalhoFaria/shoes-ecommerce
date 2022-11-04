@@ -2,11 +2,12 @@
   width: 100vw;
   height: 100vw;
   display: flex;
-  justify-content: center;
+  justify-content: center;  
   align-items: center;
 }
 
 .containerStoresPage .storesPage .close{
+  height: auto;
   padding-top: 5px;
   padding-right: 5px;
   display: flex;
@@ -17,14 +18,23 @@
 .containerStoresPage .storesPage .close .closeImage{
   width: 20px;
   display: flex;
+  margin: 5px;
   justify-content:flex-end;
 }
 
 .storesPage {
-  background-color: #6ebae0;
-  border-radius: 20px;
+  background-color: #262626;
+  color: white;
+  border-radius: 20px;  
   width: 80vw;
 }
+
+@media(max-width: 768px){
+  .storesPage {
+    width: 100vw;
+  }
+}
+
 .title{
   text-align: center;
   font-size: 2rem;
@@ -33,7 +43,7 @@
 
 .store{
   padding: 20px;
-  border-bottom: 1px dashed black;
+  border-bottom: 1px dashed #262626;
 }
 
 .adress{
