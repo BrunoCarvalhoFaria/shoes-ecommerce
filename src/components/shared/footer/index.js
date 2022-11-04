@@ -1,13 +1,6 @@
 import "./style.css"
-import { useNavigate } from "react-router-dom";
 
 const Footer = () => {  
-
-  let navigate = useNavigate();
-
-  const goToHome = () => {
-    navigate('/');
-  }
   return (
     <div className='footer'>              
       <div className='contact'>
